@@ -60,6 +60,10 @@ Requirements
 * Arduino IDE distribution
 * ``picocom`` for serial communication
 
+You can resolve those requirements on Debian/Ubuntu with this command:
+
+`sudo apt-get install python-setuptools picocom arduino`
+
 Limitations
 ===========
 
